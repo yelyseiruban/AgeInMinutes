@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkPurple">#1F0322</color>
+    <color name="background">#F8DEEA</color>
+    <color name="lightPink">#F8DEEA</color>
+    <color name="normal_button_color">#E57F9E</color>
+    <color name="pressed_button_color">#985267</color>
+    <color name="greenDescription">#899D78</color>
+    <color name="green">#1B5E20</color>
+    <color name="green_dark">#003300</color>
+    <color name="green_light">#A5D6A7</color>
+    <color name="blue">#0288D1</color>
+    <color name="blue_dark">#005B9F</color>
+    <color name="blue_light">#81D4FA</color>
+
+</resources>
